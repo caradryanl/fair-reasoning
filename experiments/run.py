@@ -13,7 +13,7 @@ from datetime import datetime
 # Import from our modules
 from fairness_evaluation import setup_model, generate_continuations, evaluate_toxicity
 from fairness_evaluation import evaluate_gender_regard, evaluate_honest_score
-from fairness_evaluation_datasets import load_all_datasets
+from fairness_evaluation import load_all_datasets
 
 def parse_args():
     parser = argparse.ArgumentParser(description="Evaluate fairness of Llama model")

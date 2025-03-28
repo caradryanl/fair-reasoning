@@ -6,5 +6,6 @@ evaluate
 datasets
 numpy
 pandas
+matplotlib
 
 --extra-index-url https://download.pytorch.org/whl/cu121
