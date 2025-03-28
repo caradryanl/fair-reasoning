@@ -6,5 +6,5 @@ Evaluating the fairness of reasoning models
 - [x] Create the repository
 - [x] Implement the generation pipeline
 - [x] Prepare the dataset 
-- [] Implement the evaluation pipeline
-- [] Run experiments
+- [ ] Implement the evaluation pipeline
+- [ ] Run experiments
