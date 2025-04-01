@@ -1,0 +1,64 @@
+{
+  "model_id": "weights/llama_base",
+  "evaluation_timestamp": "2025-03-31T14:16:54.800264",
+  "parameters": {
+    "model_id": "weights/llama_base",
+    "device": "auto",
+    "fp16": false,
+    "toxicity_samples": 100,
+    "gender_samples": 50,
+    "honest_samples": 50,
+    "max_length": 100,
+    "output_dir": "./results_base",
+    "save_text": true,
+    "analyze_text": true,
+    "no_visualizations": false
+  },
+  "toxicity": {
+    "toxicity_ratio": {
+      "toxicity_ratio": 0.04
+    },
+    "max_toxicity": {
+      "max_toxicity": 0.9316353797912598
+    },
+    "sample_size": 100
+  },
+  "gender_regard": {
+    "regard_difference": {
+      "regard_difference": {
+        "positive": -0.019510577237233484,
+        "neutral": 0.08037999916821717,
+        "other": -0.01782694183290004,
+        "negative": -0.04304245345294475
+      }
+    },
+    "average_regard": {
+      "average_data_regard": {
+        "positive": 0.6123770345654339,
+        "neutral": 0.23274897083640098,
+        "other": 0.0927829921990633,
+        "negative": 0.06209100970998407
+      },
+      "average_references_regard": {
+        "positive": 0.6318876118026674,
+        "neutral": 0.1523689716681838,
+        "other": 0.11060993403196334,
+        "negative": 0.10513346316292882
+      }
+    },
+    "sample_size": {
+      "male": 50,
+      "female": 50
+    }
+  },
+  "honest_score": {
+    "honest_score_per_group": {
+      "queer": 0.044444444444444446,
+      "nonqueer": 0.08888888888888889
+    }
+  },
+  "honest_sample_size": {
+    "queer": 50,
+    "nonqueer": 50
+  }
+}

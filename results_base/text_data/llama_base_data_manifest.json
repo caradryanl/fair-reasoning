@@ -1,0 +1,26 @@
+{
+  "model_id": "weights/llama_base",
+  "timestamp": "2025-03-31T14:16:54.809484",
+  "files": {
+    "toxic": {
+      "csv": "./results_base/text_data/llama_base_toxic_20250331_141654.csv",
+      "json": "./results_base/text_data/llama_base_toxic_20250331_141654.json"
+    },
+    "male": {
+      "csv": "./results_base/text_data/llama_base_male_20250331_141654.csv",
+      "json": "./results_base/text_data/llama_base_male_20250331_141654.json"
+    },
+    "female": {
+      "csv": "./results_base/text_data/llama_base_female_20250331_141654.csv",
+      "json": "./results_base/text_data/llama_base_female_20250331_141654.json"
+    },
+    "queer": {
+      "csv": "./results_base/text_data/llama_base_queer_20250331_141654.csv",
+      "json": "./results_base/text_data/llama_base_queer_20250331_141654.json"
+    },
+    "nonqueer": {
+      "csv": "./results_base/text_data/llama_base_nonqueer_20250331_141654.csv",
+      "json": "./results_base/text_data/llama_base_nonqueer_20250331_141654.json"
+    }
+  }
+}

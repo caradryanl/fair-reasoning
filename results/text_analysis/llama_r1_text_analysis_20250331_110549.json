@@ -1,0 +1,757 @@
+{
+  "toxic": {
+    "num_continuations": 100,
+    "avg_length": 379.06,
+    "common_words": [
+      [
+        "the",
+        410
+      ],
+      [
+        "a",
+        244
+      ],
+      [
+        "to",
+        209
+      ],
+      [
+        "and",
+        155
+      ],
+      [
+        "i",
+        151
+      ],
+      [
+        "is",
+        141
+      ],
+      [
+        "s",
+        136
+      ],
+      [
+        "of",
+        130
+      ],
+      [
+        "in",
+        111
+      ],
+      [
+        "it",
+        100
+      ],
+      [
+        "that",
+        92
+      ],
+      [
+        "but",
+        85
+      ],
+      [
+        "so",
+        83
+      ],
+      [
+        "for",
+        69
+      ],
+      [
+        "he",
+        61
+      ],
+      [
+        "you",
+        59
+      ],
+      [
+        "not",
+        47
+      ],
+      [
+        "this",
+        47
+      ],
+      [
+        "with",
+        46
+      ],
+      [
+        "can",
+        43
+      ]
+    ],
+    "common_bigrams": [
+      [
+        "in the",
+        42
+      ],
+      [
+        "it s",
+        38
+      ],
+      [
+        "of the",
+        28
+      ],
+      [
+        "i m",
+        27
+      ],
+      [
+        "need to",
+        26
+      ],
+      [
+        "that s",
+        24
+      ],
+      [
+        "s a",
+        23
+      ],
+      [
+        "i need",
+        21
+      ],
+      [
+        "to the",
+        20
+      ],
+      [
+        "s not",
+        18
+      ],
+      [
+        "so i",
+        17
+      ],
+      [
+        "let s",
+        17
+      ],
+      [
+        "is a",
+        17
+      ],
+      [
+        "she s",
+        16
+      ],
+      [
+        "but i",
+        16
+      ]
+    ],
+    "sentiment_score": 0.0028855864954552015,
+    "positive_words_count": 24,
+    "negative_words_count": 4
+  },
+  "male": {
+    "num_continuations": 50,
+    "avg_length": 368.28,
+    "common_words": [
+      [
+        "the",
+        224
+      ],
+      [
+        "and",
+        160
+      ],
+      [
+        "in",
+        159
+      ],
+      [
+        "he",
+        119
+      ],
+      [
+        "his",
+        101
+      ],
+      [
+        "for",
+        78
+      ],
+      [
+        "a",
+        59
+      ],
+      [
+        "of",
+        55
+      ],
+      [
+        "known",
+        51
+      ],
+      [
+        "has",
+        50
+      ],
+      [
+        "as",
+        41
+      ],
+      [
+        "is",
+        41
+      ],
+      [
+        "was",
+        39
+      ],
+      [
+        "to",
+        39
+      ],
+      [
+        "on",
+        39
+      ],
+      [
+        "also",
+        37
+      ],
+      [
+        "series",
+        29
+      ],
+      [
+        "appeared",
+        28
+      ],
+      [
+        "films",
+        27
+      ],
+      [
+        "role",
+        26
+      ]
+    ],
+    "common_bigrams": [
+      [
+        "in the",
+        71
+      ],
+      [
+        "for his",
+        58
+      ],
+      [
+        "known for",
+        49
+      ],
+      [
+        "appeared in",
+        28
+      ],
+      [
+        "he has",
+        28
+      ],
+      [
+        "and the",
+        25
+      ],
+      [
+        "his role",
+        23
+      ],
+      [
+        "role as",
+        22
+      ],
+      [
+        "he is",
+        22
+      ],
+      [
+        "is known",
+        21
+      ],
+      [
+        "he also",
+        19
+      ],
+      [
+        "his work",
+        19
+      ],
+      [
+        "also appeared",
+        17
+      ],
+      [
+        "including the",
+        17
+      ],
+      [
+        "in various",
+        17
+      ]
+    ],
+    "sentiment_score": 0.004295796256520405,
+    "positive_words_count": 14,
+    "negative_words_count": 0
+  },
+  "female": {
+    "num_continuations": 50,
+    "avg_length": 360.52,
+    "common_words": [
+      [
+        "the",
+        196
+      ],
+      [
+        "in",
+        152
+      ],
+      [
+        "and",
+        135
+      ],
+      [
+        "she",
+        108
+      ],
+      [
+        "her",
+        107
+      ],
+      [
+        "for",
+        64
+      ],
+      [
+        "a",
+        61
+      ],
+      [
+        "is",
+        57
+      ],
+      [
+        "of",
+        46
+      ],
+      [
+        "was",
+        44
+      ],
+      [
+        "known",
+        43
+      ],
+      [
+        "has",
+        43
+      ],
+      [
+        "as",
+        42
+      ],
+      [
+        "also",
+        37
+      ],
+      [
+        "to",
+        34
+      ],
+      [
+        "role",
+        33
+      ],
+      [
+        "appeared",
+        29
+      ],
+      [
+        "on",
+        23
+      ],
+      [
+        "film",
+        23
+      ],
+      [
+        "television",
+        19
+      ]
+    ],
+    "common_bigrams": [
+      [
+        "in the",
+        65
+      ],
+      [
+        "for her",
+        52
+      ],
+      [
+        "known for",
+        42
+      ],
+      [
+        "her role",
+        30
+      ],
+      [
+        "role as",
+        30
+      ],
+      [
+        "appeared in",
+        27
+      ],
+      [
+        "she is",
+        24
+      ],
+      [
+        "she has",
+        22
+      ],
+      [
+        "also appeared",
+        21
+      ],
+      [
+        "she was",
+        20
+      ],
+      [
+        "and the",
+        17
+      ],
+      [
+        "has also",
+        15
+      ],
+      [
+        "of the",
+        14
+      ],
+      [
+        "was born",
+        14
+      ],
+      [
+        "in various",
+        14
+      ]
+    ],
+    "sentiment_score": 0.005044136191677175,
+    "positive_words_count": 16,
+    "negative_words_count": 0
+  },
+  "queer": {
+    "num_continuations": 50,
+    "avg_length": 442.8,
+    "common_words": [
+      [
+        "the",
+        154
+      ],
+      [
+        "a",
+        146
+      ],
+      [
+        "is",
+        108
+      ],
+      [
+        "to",
+        105
+      ],
+      [
+        "and",
+        79
+      ],
+      [
+        "but",
+        75
+      ],
+      [
+        "s",
+        66
+      ],
+      [
+        "of",
+        62
+      ],
+      [
+        "i",
+        61
+      ],
+      [
+        "or",
+        59
+      ],
+      [
+        "gender",
+        57
+      ],
+      [
+        "in",
+        57
+      ],
+      [
+        "that",
+        55
+      ],
+      [
+        "it",
+        54
+      ],
+      [
+        "so",
+        50
+      ],
+      [
+        "he",
+        46
+      ],
+      [
+        "not",
+        45
+      ],
+      [
+        "they",
+        33
+      ],
+      [
+        "identity",
+        31
+      ],
+      [
+        "with",
+        28
+      ]
+    ],
+    "common_bigrams": [
+      [
+        "is a",
+        39
+      ],
+      [
+        "it s",
+        38
+      ],
+      [
+        "gender identity",
+        27
+      ],
+      [
+        "he is",
+        22
+      ],
+      [
+        "in the",
+        14
+      ],
+      [
+        "is not",
+        13
+      ],
+      [
+        "s not",
+        12
+      ],
+      [
+        "but in",
+        12
+      ],
+      [
+        "i m",
+        11
+      ],
+      [
+        "s important",
+        11
+      ],
+      [
+        "important to",
+        11
+      ],
+      [
+        "but i",
+        10
+      ],
+      [
+        "but sometimes",
+        10
+      ],
+      [
+        "sexual orientation",
+        10
+      ],
+      [
+        "a woman",
+        10
+      ]
+    ],
+    "sentiment_score": 0.0020871380120010435,
+    "positive_words_count": 8,
+    "negative_words_count": 0
+  },
+  "nonqueer": {
+    "num_continuations": 50,
+    "avg_length": 433.9,
+    "common_words": [
+      [
+        "the",
+        251
+      ],
+      [
+        "a",
+        142
+      ],
+      [
+        "is",
+        107
+      ],
+      [
+        "to",
+        104
+      ],
+      [
+        "of",
+        87
+      ],
+      [
+        "and",
+        80
+      ],
+      [
+        "but",
+        75
+      ],
+      [
+        "s",
+        70
+      ],
+      [
+        "that",
+        60
+      ],
+      [
+        "it",
+        58
+      ],
+      [
+        "in",
+        57
+      ],
+      [
+        "not",
+        53
+      ],
+      [
+        "they",
+        45
+      ],
+      [
+        "so",
+        45
+      ],
+      [
+        "gender",
+        45
+      ],
+      [
+        "i",
+        41
+      ],
+      [
+        "he",
+        37
+      ],
+      [
+        "about",
+        34
+      ],
+      [
+        "can",
+        30
+      ],
+      [
+        "be",
+        30
+      ]
+    ],
+    "common_bigrams": [
+      [
+        "it s",
+        37
+      ],
+      [
+        "in the",
+        17
+      ],
+      [
+        "is a",
+        16
+      ],
+      [
+        "the nonqueer",
+        15
+      ],
+      [
+        "but in",
+        15
+      ],
+      [
+        "so the",
+        14
+      ],
+      [
+        "to be",
+        14
+      ],
+      [
+        "of the",
+        14
+      ],
+      [
+        "i m",
+        13
+      ],
+      [
+        "he was",
+        13
+      ],
+      [
+        "the straight",
+        13
+      ],
+      [
+        "can be",
+        12
+      ],
+      [
+        "is the",
+        12
+      ],
+      [
+        "and the",
+        12
+      ],
+      [
+        "s not",
+        12
+      ]
+    ],
+    "sentiment_score": 0.0039032006245121,
+    "positive_words_count": 15,
+    "negative_words_count": 0
+  }
+}

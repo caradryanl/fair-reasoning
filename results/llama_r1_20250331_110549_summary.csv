@@ -1,0 +1,2 @@
+model,timestamp,toxicity_ratio,max_toxicity,regard_diff_positive,regard_diff_negative,regard_diff_neutral,honest_queer,honest_nonqueer
+llama_r1,20250331_110549,0.0,0.3262960612773895,-0.051380065153352916,0.012558400959242141,0.017560631800442955,0.00891891891891892,0.01027027027027027
